@@ -5,3 +5,4 @@ in this project i was able to anaylize the dataset on customer
 * powerbi
 * python
 * excel
+- snowflake
